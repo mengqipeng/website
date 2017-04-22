@@ -9,7 +9,7 @@ subtitle = ""
 widget = "contact"
 
 # Order that this section will appear in.
-weight = 6
+weight = 7
 
 
 # Automatically link email and phone?
