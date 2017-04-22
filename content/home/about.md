@@ -35,4 +35,4 @@ weight = 1
 Hello! This is Mengqi Peng.
 Currently, I am a PhD student in HKU, my advisor is [Dr. Li-Yi Wei](http://liyiwei.org).
 I received my bachelor degree from SYSU (Sun Yat-sen University) in 2015.
-You can find my cv [here](https://www.dropbox.com/s/8kemu025vsy5ncd/Mengqi-cv.pdf?dl=0).
+You can find my cv [here](/cv/mengqipeng-cv.pdf)
