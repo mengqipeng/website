@@ -17,5 +17,9 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
+[[url_custom]]
+name = "Media"
+url = "https://www.technologyreview.com/s/604113/the-best-of-the-physics-arxiv-week-ending-april-8-2017/"
+
 +++
 
