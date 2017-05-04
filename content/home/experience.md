@@ -17,4 +17,4 @@ weight = 3
 I like to experience various working cultures with different cool guys:
 
 - June/2015-August/2015 R&D Summer Intern at [ZWCAD Software](http://www.zwsoft.com/zw3d/)
-- July/2014-August/2015 Research Summer Intern at HKU
+- July/2014-August/2014 Research Summer Intern at HKU
