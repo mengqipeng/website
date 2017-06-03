@@ -14,7 +14,7 @@ weight = 1
   interests = [
     "Computer Graphics",
     "Human Computer Interaction",
-    "Machine Learning"
+    "Deep Learning"
   ]
 
 # List your qualifications (such as academic degrees).
