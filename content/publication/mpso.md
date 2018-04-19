@@ -9,7 +9,7 @@ publication_types = ["1"]
 publication = "Genetic and Evolutionary Computation Conference, GECCO 2014, Vancouver, BC, Canada"
 publication_short = ""
 selected = false
-title = "2014 Multi-swarm Particle Swarm Optimization with Multiple Learning Strategies"
+title = "Multi-swarm Particle Swarm Optimization with Multiple Learning Strategies"
 url_code = ""
 url_dataset = ""
 url_pdf = "http://dl.acm.org/citation.cfm?doid=2598394.2598418"
