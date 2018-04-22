@@ -16,8 +16,8 @@ weight = 6
 
 During my spare time, I have board interests on many cool and fun stuff:
 
-- Basketball, tennis, running, and hiking
+- Basketball, Tennis, Running, and Hiking
 - Photography
-- Reading
+- Reading, Documentary Films, Movies
 - Calligraphy
-- Music and movies
+- Pop Music and Fingerstyle
