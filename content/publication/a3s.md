@@ -16,7 +16,7 @@ url_dataset = ""
 url_pdf = ""
 url_project = "https://1iyiwei.github.io/a3s-sig18/"
 url_slides = ""
-url_video = ""
+url_video = "https://youtu.be/wcQy42XWTnA"
 
 #[[url_custom]]
 #name = "Media"
