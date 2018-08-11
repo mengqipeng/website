@@ -13,7 +13,7 @@ selected = false
 title = "Autocomplete 3D Sculpting, SIGGRAPH 2018 (paper coming soon)"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "https://dl.acm.org/citation.cfm?id=3201297"
 url_project = "https://1iyiwei.github.io/a3s-sig18/"
 url_slides = ""
 url_video = "https://youtu.be/wcQy42XWTnA"
