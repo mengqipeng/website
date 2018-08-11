@@ -14,8 +14,8 @@ weight = 5
 
 +++
 
-- 2019 Google GHC Travel Grant (Houston)
-- 2019 HKU Conference Travel Grant (Vancouver)
+- 2018 Google GHC Travel Grant (Houston)
+- 2018 HKU Conference Travel Grant (Vancouver)
 - 2015-2019 HKU Postgraduate Scholarship
 - 2015 Outstanding Undergraduate, Sun Yat-sen University
 - 2014 First Prize, Mathematical Contest in Modeling
