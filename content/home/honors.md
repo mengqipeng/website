@@ -14,9 +14,11 @@ weight = 5
 
 +++
 
+- 2019 ACM SIGGRAPH Doctoral Consortium Full Conference Grant (Los Angeles [aka Home of my team Lakers :)])
+- 2019 HKU Conference Grant (Los Angeles)
 - 2018 Google GHC Travel Grant (Houston)
 - 2018 HKU Conference Travel Grant (Vancouver)
-- 2015-2019 HKU Postgraduate Scholarship
+- 2015-2020 HKU Postgraduate Scholarship
 - 2015 Outstanding Undergraduate, Sun Yat-sen University
 - 2014 First Prize, Mathematical Contest in Modeling
 - 2014 Google Anita Borg Scholarship

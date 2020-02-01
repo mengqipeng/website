@@ -16,6 +16,7 @@ weight = 4
 
 I am a teaching assistant for the following courses at HKU:
 
-- Spring 2018 CS-2396: Object-Oriented Programming and Java 
+- Spring 2019 CS-2396: Object-Oriented Programming and Java
+- Spring 2018 CS-2396: Object-Oriented Programming and Java
 - Autumn 2016 CS-3314: Machine Learning
 - Autumn 2015 CS-1117: Computer Programming

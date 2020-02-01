@@ -1,6 +1,6 @@
 baseurl = "https://mengqipeng.github.io/"
 title = "Mengqi Peng"
-copyright = "&copy; 2018 Mengqi Peng"
+copyright = "&copy; 2020 Mengqi Peng"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"

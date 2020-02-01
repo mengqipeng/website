@@ -13,6 +13,7 @@ weight = 1
 [interests]
   interests = [
     "Computer Graphics",
+    "Virtual Reality",
     "Human Computer Interaction",
     "Deep Learning"
   ]
@@ -21,7 +22,7 @@ weight = 1
 [[education.courses]]
   course = "PhD student"
   institution = "The University of Hong Kong"
-  year = "Sep/2015-Now"
+  year = "Sep/2015-June/2020"
 
 [[education.courses]]
   course = "B.S. in CS"
@@ -32,7 +33,13 @@ weight = 1
 
 # Biography
 
-Hello! This is Mengqi Peng.
-Currently, I am a PhD student in HKU, my advisor is [Dr. Li-Yi Wei](http://liyiwei.org).
+Hello :) This is Mengqi Peng.
+Currently, I am a PhD student in HKU, my advisor is Dr. Li-Yi Wei.
 I received my bachelor degree from SYSU (Sun Yat-sen University) in 2015.
-You can find my cv [here](/files/mengqipeng-cv.pdf).
+
+My research is mainly about Computer Graphics and HCI, in particular interactive/real-time 3D modeling.
+I develop systems with novel algorithms and UI features to assist users on various modeling/sculpting tasks, including traditional desktop sculpting/modeling, immersive VR sculpting/painting, and sculpting animations.
+
+<span style="color:blue">
+*I am now actively looking for full-time job opportunities (Research & Development). Feel free to contact me via emails :))*
+</span>
